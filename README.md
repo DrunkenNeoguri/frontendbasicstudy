@@ -46,9 +46,10 @@
 
 ### 🏆 개인 작업 사항
 
-- 스터디를 진행하시는 분들은 매 회차, 혹은 매 주차 공부하신 사항들을 하나씩 아래에 채워주시면 됩니다.
+- 스터디를 진행하시는 분들은 매 회차, 혹은 매 주차 공부하신 사항들을 깃허브 README.md에 하나씩 채워주시면 됩니다.
 - 공부하신 내용은 공부하신 내용이 담긴 링크를, 작업중인 프로젝트는 깃허브 레포지토리 링크를 남겨주세요.
 - 예시: [7주차 - JavaScript 클론 코딩(1): 온라인 커머스 제품 설명 페이지](https://github.com/DrunkenNeoguri/ecommerceproductpagechallenge)
+- 참고 깃허브 페이지: [프론트엔드 기초 학습 프로젝트](https://github.com/DrunkenNeoguri/frontendbasicstudy)
 
 - [1회차 - ]()
 - [2회차 - ]()
