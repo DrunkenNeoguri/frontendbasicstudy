@@ -1,8 +1,13 @@
 ## 프론트엔드 기초 스터디 안내
 
+### 📞 제작자 연락망
+
+[JavaScript is not available.](https://twitter.com/develop_neoguri)
+
 ### 🔖 스터디 안내
 
-- [스터디 관련 노션 링크 바로가기](https://neoguri-laboratory.notion.site/76eef58bcec84f799c4a0df1b61e8c89)
+- [스터디 관련 노션 링크 바로가기](https://www.notion.so/s-76eef58bcec84f799c4a0df1b61e8c89)
+
 - 본 프로젝트 커리큘럼은 프론트엔드를 지망하시는 분들을 위한 음지에서 양지로 올라온 한 너구리의 개인 학습 캠프 과정 커리큘럼입니다.
   본 프로젝트는 기초가 많이 부족하다고 여기시는 분들을 위해서 준비했습니다.
 - **HTML과 CSS, 그리고 JavaScript 학습 후 React까지의 과정을 목표로 합니다.**
@@ -19,20 +24,30 @@
   단, 참고 문서 등에서 해당 지식을 쌓을 만한 링크들을 넣어놨으니 해당 링크를 통해 학습하시는 걸 권장드립니다 🙂
 
 - 스터디 노션 링크는 템플릿 복제가 가능합니다.
-- 가져가서 본인 혹은 팀이 진행하는 스터디에 맞춰서 내용을 바꿔보세요.
-- 가져가실 때의 출저를 남겨주시면 감사하겠습니다! :D
+
+  - 가져가서 본인 혹은 팀이 진행하는 스터디에 맞춰서 내용을 바꿔보세요.
+  - 가져가실 때의 출저를 남겨주시면 감사하겠습니다! :D
+
+- 참가하실 분들은 하단의 전체 확대를 눌러 페이지를 확장할 수 있습니다.
+  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c33b1d89-4105-4903-b63f-b334ad4feb85/Untitled.png)
+
+- 확장하시면 페이지 편집이 가능하게 되는데(**안 되면 새로고침 꼭 해주세요!**), 참가자에 자신의 이름이나 닉네임을 입력해 진행해주세요.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/263c4cf0-ab86-4798-9517-707541b985e0/Untitled.png)
+
+- 회차를 완료하신 분들은 동일하게 닉네임이나 이름을 완료자에 작성해주세요!
 
 ### ✅ 스터디 커리큘럼
 
-- [커리큘럼 바로 가기](https://neoguri-laboratory.notion.site/b4327d01bf14437caa5c2e80d9270cd4?v=609cdbe85b944d8bbd8f4de9661d44fa)
+- [커리큘럼 바로 가기](https://www.notion.so/b4327d01bf14437caa5c2e80d9270cd4)
 - 해당 커리큘럼은 상황에 따라 자유롭게 바꾸셔도 됩니다.
 - 템플릿을 복제하셔서 본인 혹은 팀이 진행하는 스터디에 맞춰 변경해보세요.
 
-### 👍 개인 작업 사항
+### 🏆 개인 작업 사항
 
 - 스터디를 진행하시는 분들은 매 회차, 혹은 매 주차 공부하신 사항들을 하나씩 아래에 채워주시면 됩니다.
 - 공부하신 내용은 공부하신 내용이 담긴 링크를, 작업중인 프로젝트는 깃허브 레포지토리 링크를 남겨주세요.
-  예: [7주차 - JavaScript 클론 코딩(1): 온라인 커머스 제품 설명 페이지](https://github.com/DrunkenNeoguri/ecommerceproductpagechallenge)
+- 예시: [7주차 - JavaScript 클론 코딩(1): 온라인 커머스 제품 설명 페이지](https://github.com/DrunkenNeoguri/ecommerceproductpagechallenge)
 
 - [1회차 - ]()
 - [2회차 - ]()
