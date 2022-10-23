@@ -1,10 +1,10 @@
 ## 프론트엔드 기초 스터디 안내
 
-![mainImage.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b41c65ed-7a31-49d8-839c-a17f03a38293/mainImage.jpg)
+![안내 이미지](https://github.com/DrunkenNeoguri/frontendbasicstudy/blob/main/images/mainImage.jpg?raw=true)
 
 ### 📞 제작자 연락망
 
-- [제작자 트위터](https://twitter.com/develop_neoguri)
+- [제작자 연락처](https://twitter.com/develop_neoguri)
 
 ### 🔖 스터디 안내
 
@@ -27,6 +27,7 @@
 
 - 스터디 노션 링크는 템플릿 복제가 가능합니다.
   - 가져가서 본인 혹은 팀이 진행하는 스터디에 맞춰서 내용을 바꿔보세요.
+  - 본인, 팀 만의 스터디 규칙을 정해주시고 각자 공부한 것을 개인 작업 사항을 통해 관리하고 공유해봅시다!
   - 가져가실 때의 출저를 남겨주시면 감사하겠습니다! :D
 
 ### ✅ 스터디 커리큘럼
