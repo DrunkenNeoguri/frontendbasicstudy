@@ -2,7 +2,7 @@
 
 ### 📞 제작자 연락망
 
-[JavaScript is not available.](https://twitter.com/develop_neoguri)
+- [제작자 트위터](https://twitter.com/develop_neoguri)
 
 ### 🔖 스터디 안내
 
@@ -24,18 +24,8 @@
   단, 참고 문서 등에서 해당 지식을 쌓을 만한 링크들을 넣어놨으니 해당 링크를 통해 학습하시는 걸 권장드립니다 🙂
 
 - 스터디 노션 링크는 템플릿 복제가 가능합니다.
-
   - 가져가서 본인 혹은 팀이 진행하는 스터디에 맞춰서 내용을 바꿔보세요.
   - 가져가실 때의 출저를 남겨주시면 감사하겠습니다! :D
-
-- 참가하실 분들은 하단의 전체 확대를 눌러 페이지를 확장할 수 있습니다.
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c33b1d89-4105-4903-b63f-b334ad4feb85/Untitled.png)
-
-- 확장하시면 페이지 편집이 가능하게 되는데(**안 되면 새로고침 꼭 해주세요!**), 참가자에 자신의 이름이나 닉네임을 입력해 진행해주세요.
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/263c4cf0-ab86-4798-9517-707541b985e0/Untitled.png)
-
-- 회차를 완료하신 분들은 동일하게 닉네임이나 이름을 완료자에 작성해주세요!
 
 ### ✅ 스터디 커리큘럼
 
