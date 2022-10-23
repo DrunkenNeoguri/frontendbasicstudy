@@ -1,5 +1,7 @@
 ## 프론트엔드 기초 스터디 안내
 
+![mainImage.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b41c65ed-7a31-49d8-839c-a17f03a38293/mainImage.jpg)
+
 ### 📞 제작자 연락망
 
 - [제작자 트위터](https://twitter.com/develop_neoguri)
